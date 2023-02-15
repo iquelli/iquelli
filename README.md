@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/a6/0b/15/a60b15f074d49bce537271f853c20d69.png)]
+[![MasterHead](https://i.pinimg.com/originals/d7/03/ab/d703abc59641cdc12718f9fe1048b289.jpg)]
 <h1 align="center">Hi 👋, I'm Raquel</h1>
 <h3 align="center">A computer science student from Portugal</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
