@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iquelli&show_icons=true&locale=en&layout=compacte&theme=dark&hide=stars" alt="iquelli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iquelli&show_icons=true&locale=ene&theme=dark" alt="iquelli" /></p>
+<p>&nbsp;<img align="center" src="" alt="iquelli" /></p>
