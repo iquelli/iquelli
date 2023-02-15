@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
 <h3 align="center">A computer science student from Portugal</h3>
-(img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif")
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif">
 
 - ⚡ Fun fact **I love to travel**
 
