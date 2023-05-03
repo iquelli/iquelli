@@ -15,7 +15,6 @@
 
 <div style="display: flex; flex-direction: row;">
 
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=iquelli&show_icons=true&theme=dark&locale=en&count-private=true&PAT_1" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pesteves2002&show_icons=true&theme=tokyonight&locale=en" alt="pesteves2002" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iquelli&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="iquelli" /></p>
