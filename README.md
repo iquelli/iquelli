@@ -1,7 +1,10 @@
+## Hi 👋 I am Raquel! 
 
-<h1 align="center">Hi, I'm Raquel 👋</h1>
-<h3 align="center">A computer science student from Portugal</h3>
+- 👩‍🎓 I'm studying Computer Science in Instituto Superior Técnico.
 
+- 📧 How to reach me: [Linkedin](https://www.linkedin.com/in/raquel-braunschweig)
+
+## Stats
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iquelli&count_private=true&show_icons=true&theme=dark&hide=stars)
