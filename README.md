@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Raquel 👋</h1>
 <h3 align="center">A computer science student from Portugal</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <div style="display: flex; flex-direction: row;">
 
