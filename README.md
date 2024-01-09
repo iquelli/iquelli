@@ -4,6 +4,8 @@
 
 - 📧 How to reach me: [Linkedin](https://www.linkedin.com/in/raquel-braunschweig)
 
+- 💼 You can find my projects in my ⭐.
+
 ## Stats
 <div align="center">
   
