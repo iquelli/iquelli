@@ -2,7 +2,7 @@
 
 - 👩‍🎓 I'm studying Computer Science in Instituto Superior Técnico.
 
-- 📧 How to reach me: [Linkedin](https://www.linkedin.com/in/raquel-braunschweig)
+- 📧 How to reach me: [Linkedin](https://www.linkedin.com/in/raquel-braunschweig).
 
 - 💼 You can find my projects in my ⭐.
 
