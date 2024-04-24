@@ -1,5 +1,6 @@
 ## Hi 👋 I am Raquel! 
 
+- AAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - 👩‍🎓 I'm studying Computer Science in Instituto Superior Técnico.
 
 - 📧 How to reach me: [Linkedin](https://www.linkedin.com/in/raquel-braunschweig).
