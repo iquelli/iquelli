@@ -1,6 +1,6 @@
 ## Hi 👋 I am Raquel! 
 
-- 👩‍🎓 I'm studying Computer Science in Instituto Superior Técnico.
+- 💜 Software Engineer at Upright Solutions.
 
 - 📧 How to reach me: [Linkedin](https://www.linkedin.com/in/raquel-braunschweig).
 
